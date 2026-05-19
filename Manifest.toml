@@ -898,7 +898,7 @@ version = "3.4.1+1"
 
 [[deps.GMAM]]
 deps = ["DataInterpolations", "DifferentialEquations", "Enzyme", "LinearAlgebra", "MatrixEquations", "Plots"]
-git-tree-sha1 = "18a14b515c12713599f70c6fa0f526ed0fec13bd"
+git-tree-sha1 = "bb9a327c7a13387006d0aa201e8099d3dc7cdf60"
 repo-rev = "main"
 repo-url = "git@github.com:aa-dec/gmam-julia.git"
 uuid = "da6431c2-eab7-418b-8cd9-7f51452fef61"
