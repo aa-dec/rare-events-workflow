@@ -16,4 +16,4 @@ Assumptions needed on the system:
 
 ## Things to note: 
 
-Enzyme is rather unstable. Everything was developed in a julia 1.10 environment 
+Enzyme is rather unstable. Everything was developed in a julia 1.10 environment to enforce using a stable version of Enzyme.
