@@ -4,7 +4,7 @@ This project contains examples illustrating how to compute rare event
 asymptotics for rare events associated to SDEs 
 
 $$ 
-dX_t = b(X_t) \, dt + a(X_t) dW_t. 
+dX_t = b(X_t) \, dt + \sqrt{2 \varepsilon} a(X_t) dW_t. 
 $$
 
 Assumptions needed on the system:
